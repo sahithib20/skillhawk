@@ -1,0 +1,5 @@
+{
+  "category": "finding-titles",
+  "topic": "Finding titles — Least privilege",
+  "tip": "Write finding titles that identify the excessive permission and the affected resource. For example, use \"Admin access granted to read-only users\" instead of \"Access control issue\" to make the risk and required scope reduction clear."
+}
